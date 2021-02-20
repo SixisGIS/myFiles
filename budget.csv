@@ -1,29 +1,31 @@
 budget,type,amount,percent,percent remaining,amount remaining
-Household<br>Supplies,Spent,131.56,100,100,$40.00
+Household<br>Supplies,Spent,185.92,100,100,$40.00
 Household<br>Supplies,Budget Remaining,40.00,100,0,$40.00
-Household<br>Supplies,Overbudget,131.56,100,228.90000000000003,$91.56
+Household<br>Supplies,Overbudget,185.92,100,364.79999999999995,$145.92
 Internet,Spent,0.00,0.0,0.0,$0.00
 Internet,Budget Remaining,50.00,100,100.0,$50.00
-Clothing,Spent,0.00,0.0,0.0,$0.00
-Clothing,Budget Remaining,50.00,100,100.0,$50.00
+Clothing,Spent,67.88,100,100,$50.00
+Clothing,Budget Remaining,50.00,100,0,$50.00
+Clothing,Overbudget,67.88,100,35.75999999999999,$17.88
 Mobile<br>Phone,Spent,0.00,0.0,0.0,$0.00
 Mobile<br>Phone,Budget Remaining,60.00,100,100.0,$60.00
-Amusement,Spent,97.28,100,100,$75.00
-Amusement,Budget Remaining,75.00,100,0,$75.00
-Amusement,Overbudget,97.28,100,29.70666666666665,$22.28
+Amusement,Spent,56.85,75.8,75.8,$56.85
+Amusement,Budget Remaining,75.00,100,24.200000000000003,$18.15
 Auto<br>Insurance,Spent,0.00,0.0,0.0,$0.00
 Auto<br>Insurance,Budget Remaining,100.00,100,100.0,$100.00
 Dates,Spent,0.00,0.0,0.0,$0.00
 Dates,Budget Remaining,100.00,100,100.0,$100.00
-Fuel,Spent,0.00,0.0,0.0,$0.00
-Fuel,Budget Remaining,125.00,100,100.0,$125.00
-Auto<br>Payment,Spent,0.00,0.0,0.0,$0.00
-Auto<br>Payment,Budget Remaining,159.00,100,100.0,$159.00
-Utilities,Spent,24.50,7.000000000000001,7.000000000000001,$24.50
-Utilities,Budget Remaining,350.00,100,93.0,$325.50
+Fuel,Spent,64.46,51.56799999999999,51.56799999999999,$64.46
+Fuel,Budget Remaining,125.00,100,48.43200000000001,$60.54
+Auto<br>Payment,Spent,166.58,100,100,$159.00
+Auto<br>Payment,Budget Remaining,159.00,100,0,$159.00
+Auto<br>Payment,Overbudget,166.58,100,4.767295597484278,$7.58
+Utilities,Spent,104.77,29.934285714285714,29.934285714285714,$104.77
+Utilities,Budget Remaining,350.00,100,70.06571428571428,$245.23
 Tithing,Spent,0.00,0.0,0.0,$0.00
 Tithing,Budget Remaining,369.00,100,100.0,$369.00
-Groceries,Spent,310.21,77.5525,77.5525,$310.21
-Groceries,Budget Remaining,400.00,100,22.447500000000005,$89.79
+Groceries,Spent,474.33,100,100,$400.00
+Groceries,Budget Remaining,400.00,100,0,$400.00
+Groceries,Overbudget,474.33,100,18.582499999999996,$74.33
 Mortgage,Spent,1468.29,99.95166780122531,99.95166780122531,$1468.29
 Mortgage,Budget Remaining,1469.00,100,0.04833219877468764,$0.71
